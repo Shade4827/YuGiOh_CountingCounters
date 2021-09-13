@@ -1,0 +1,71 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+}
+
+ol,
+ul {
+    padding-left: 30px;
+}
+
+a {
+    margin-left: 44px;
+}
+
+.field-spelltrap {
+    display: flex;
+    margin-left: 64px;
+}
+
+.field-monster-top {
+    display: flex;
+    margin-left: 64px;
+}
+
+.field-monster-bottom {
+    display: flex;
+    margin-left: 20px;
+}
+
+.field-ex {
+    display: flex;
+    margin-left: 108px;
+}
+
+.zone {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 64px;
+    height: 64px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 44px;
+}
+
+.zone:focus {
+    outline: none;
+}
+
+.kbd-navigation .zone:focus {
+    background: #ddd;
+}
+
+.app {
+    display: flex;
+    flex-direction: row;
+}
+
+.app-button {
+    margin-left: 40px;
+}
+
+.text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
