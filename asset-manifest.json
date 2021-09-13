@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YuGiOh_CountingCounters/static/css/main.0586a9eb.chunk.css",
+    "main.js": "/YuGiOh_CountingCounters/static/js/main.d72a29d1.chunk.js",
+    "main.js.map": "/YuGiOh_CountingCounters/static/js/main.d72a29d1.chunk.js.map",
+    "runtime-main.js": "/YuGiOh_CountingCounters/static/js/runtime-main.1ddb3fb0.js",
+    "runtime-main.js.map": "/YuGiOh_CountingCounters/static/js/runtime-main.1ddb3fb0.js.map",
+    "static/js/2.5f955a3d.chunk.js": "/YuGiOh_CountingCounters/static/js/2.5f955a3d.chunk.js",
+    "static/js/2.5f955a3d.chunk.js.map": "/YuGiOh_CountingCounters/static/js/2.5f955a3d.chunk.js.map",
+    "index.html": "/YuGiOh_CountingCounters/index.html",
+    "static/css/main.0586a9eb.chunk.css.map": "/YuGiOh_CountingCounters/static/css/main.0586a9eb.chunk.css.map",
+    "static/js/2.5f955a3d.chunk.js.LICENSE.txt": "/YuGiOh_CountingCounters/static/js/2.5f955a3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ddb3fb0.js",
+    "static/js/2.5f955a3d.chunk.js",
+    "static/css/main.0586a9eb.chunk.css",
+    "static/js/main.d72a29d1.chunk.js"
+  ]
+}
